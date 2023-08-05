@@ -1,2 +1,2 @@
 # APS-DESENVOLVIMENTO-WEB
-Atividade Prática Supervisionada ref. disciplina de Desenvolvimento Web
+Atividade Prática Supervisionada Referente a disciplina de Desenvolvimento Web.
